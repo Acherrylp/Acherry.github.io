@@ -4,7 +4,7 @@ date: 2016-09-26 +0700
 categories: jekyll
 description: News
 author: Me
-layout: default
+layout: default-web
 ---
 # ประกาศปรับปรุงระบบทามิส TAMIS v.1.4.1
 
