@@ -1,7 +1,7 @@
 ---
 title: TAMIS
 date: 2016-09-26 +0700
-categories: tamis
+categories: jekyll
 description: News
 author: Me
 layout: default-web
