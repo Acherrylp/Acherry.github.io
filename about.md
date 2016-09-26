@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Login
+layout: news
+title: about
 permalink: /about/
 ---
 
