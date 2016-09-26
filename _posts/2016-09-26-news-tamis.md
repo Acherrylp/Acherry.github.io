@@ -8,4 +8,4 @@ layout: default
 ---
 # ประกาศปรับปรุงระบบทามิส TAMIS v.1.4.1
 
-  <img align="center" src="http://www.tamis.in.th/image/system.png">
+  <center><img src="http://www.tamis.in.th/image/system.png"></center>
