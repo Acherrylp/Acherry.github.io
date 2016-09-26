@@ -1,6 +1,6 @@
 ---
 layout: news
-title: about
+title: About
 permalink: /about/
 ---
 
