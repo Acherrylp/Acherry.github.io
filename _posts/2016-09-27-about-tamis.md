@@ -7,13 +7,13 @@
 </head>
 <body>
 
-
+<!--fixed-top-bar
 [navbar]
 * [Home](index.html)
 * [Page1](page1.html)
 * [Page2](page1.html)
 [/navbar]
-
+-->
 
 <!--header-panel
 # Insert header here
