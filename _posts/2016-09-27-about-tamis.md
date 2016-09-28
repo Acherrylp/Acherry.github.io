@@ -1,36 +1,15 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <meta charset="utf-8">
-    <title>Example</title>
-    <script src="document.min.js" userjs="user.js" icon="favicon.ico" id="DOC" onerror="var l=document.createElement('link'),s=document.createElement('script');l.rel='stylesheet';l.href='http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css';l.id='bootstrap.css';l.auto='1';document.head.insertBefore(l,document.getElementById('DOC'));s.src='http://aplib.github.io/document.min.js';document.head.appendChild(s);"></script>
-</head>
-<body>
+---
+title: TAMIS
+date: 2016-09-26 +0700
+categories: jekyll
+description: News
+author: Me
+layout: default-web
+---
+# ทามิสคืออะไร?
 
-<!--fixed-top-bar
-[navbar]
-* [Home](index.html)
-* [Page1](page1.html)
-* [Page2](page1.html)
-[/navbar]
--->
+<img src="http://www.tamis.in.th/image/system.png" align="left">
 
-<!--header-panel
-# Insert header here
-site description
--->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum feugiat finibus massa ut aliquet. Morbi ac arcu et metus ullamcorper consectetur at vel nisi. Fusce congue varius metus at congue. Curabitur non viverra leo. In tempor pellentesque ipsum at tempor. Nullam id nisl eu diam pretium consectetur ac faucibus tellus. Aenean ornare sapien et purus convallis, sed dignissim metus suscipit. Nulla et quam mattis, aliquam enim et, molestie tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam lacus sem, feugiat tincidunt dapibus id, vestibulum quis eros.
 
-<!--content-panel
-# content text
-## content text
-### content text
-#### content text
--->
-
-<!--footer-panel
-footer here
--->
-
-<noscript><div class="alert alert-warning">This Website requires your browser to be JavaScript enabled.</div></noscript>
-</body>
-</html>
+Morbi hendrerit purus non massa molestie convallis. Curabitur in est eget urna elementum congue. Aenean vestibulum nulla et pharetra dictum. Etiam at ipsum mauris. Suspendisse vitae lacus id diam imperdiet consequat quis at mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis nisi neque, euismod et accumsan et, tristique at massa. Phasellus in erat eu purus laoreet varius a nec ipsum. Nulla facilisi. Donec nulla neque, pretium vel lectus eget, mattis elementum lectus.
