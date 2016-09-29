@@ -5,23 +5,46 @@
     <meta charset="utf-8" />
     <title>{{site.title}}</title>
     <style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #33CCCC ;
+    }
 
-  </style>
+    li {
+        float: left;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 20px 16px;
+        text-decoration: none;
+    }
+
+    li a:hover:not(.active) {
+        background-color: #33CCFF;
+    }
 
 
-  </style>
+
+</style>
 </head>
 
 <body>
     <header>
         <nav>
 
-              <a href="#">หน้าหลัก</a>
-              <a href="#">เกี่ยวกับ TAMIS</a>
-              <a href="#">ดาวน์โหลด</a>
-              <a href="#">ข่าวและกิจกรรม</a>
-              <a href="#">ราคา</a>
-              <a href="#">เข้าสู่ระบบ</a>
+          <ul>
+            <li><a href="#home">หน้าหลัก</a></li>
+            <li><a href="#about">เกี่ยวกับทามิส</a></li>
+            <li><a href="#download">ดาวน์โหลด</a></li>
+            <li><a href="#News">ข่าวและกิจกรรม</a></li>
+            <li><a href="#price">ราคา</a></li>
+</ul>
 
         </nav>
     </header>
