@@ -28,6 +28,25 @@
     li a:hover:not(.active) {
         background-color: #33CCFF;
     }
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  }
+
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  .dropdown:hover .dropdown-content {
+    display: block;
+}
 
 
 
@@ -38,12 +57,18 @@
     <header>
         <nav>
 
-          <ul>
-            <li><a href="#home">หน้าหลัก</a></li>
-            <li><a href="#about">เกี่ยวกับทามิส</a></li>
-            <li><a href="#download">ดาวน์โหลด</a></li>
-            <li><a href="https://acherrylp.github.io/news">ข่าวและกิจกรรม</a></li>
-            <li><a href="#price">ราคา</a></li>
+        <ul>
+<li><a href="#home">หน้าหลัก</a></li>
+<li class="dropdown">
+    <a href="#" class="dropbtn">เกี่ยวกับทามิส</a>
+  <div class="dropdown-content">
+    <a href="#">รู้จักกับTAMIS</a>
+    <a href="#">ประโยชน์TAMIS</a>
+    </li>
+</div>
+<li><a href="#download">ดาวน์โหลด</a></li>
+<li><a href="https://acherrylp.github.io/news">ข่าวและกิจกรรม</a></li>
+<li><a href="#price">ราคา</a></li>
 </ul>
 
         </nav>
