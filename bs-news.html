@@ -12,6 +12,9 @@ layout: default-new
 .bg-2 {
     background-color: #474e5d;
   }
+.bg-1{
+    background-color: #CCFFFF;
+}
 .navbar {
     margin-bottom: 0;
     border-radius: 0;
@@ -61,7 +64,7 @@ div.desc {
 
 </style>
 </head>
-<body>
+<header class="bg-2">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -95,9 +98,9 @@ div.desc {
             </div>
         </div>
     </div>
+</header>
 
-
-
+<body class="bg-1">
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -137,7 +140,7 @@ div.desc {
                     <img src="http://www.tamis.in.th/image/assess.png" class="img-responsive" style="width:100%" alt="Image">
                     <p>ข่าวที่3</p>
                 </div>
-                <br>
+
 
                 <div class="col-sm-4 img">
                     <a target="_blank" href="https://acherrylp.github.io/news"></a>
@@ -240,7 +243,20 @@ div.desc {
     </div>
 </div>
 
+<hr>
+<div class="container text-center">
+  <ul class="pager">
+   <li><a href="#">Previous</a></li>
 
 
+    <li class="active"><a href="#">1</a></li>
+    <li><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+
+  <li><a href="#">Next</a></li>
+    </ul>
+</div>
 </body>
 </html>
