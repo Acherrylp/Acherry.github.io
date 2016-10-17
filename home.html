@@ -7,8 +7,23 @@ author: Me
 layout: default-new
 ---
 <head>
+
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  <script src="https://use.fontawesome.com/e7c39939ee.js"></script>
+</head>
 <style>
 
+.li {
+    padding:5px 15px;
+    border-left: 1px solid #464646;
+ }
+ .li-1  {
+
+    color: #e3e1e1;
+    -webkit-transition: color 0.3s;
+    transition: color 0.3s;
+    text-align: center;
+}
 .navbar {
     margin-bottom: 0;
     border-radius: 0;
@@ -39,7 +54,11 @@ layout: default-new
      color: black;
  }
  .bg-3 {
-     background-color: #34495E ;
+      padding-top: 2% ;
+     padding-bottom:2% ;
+     padding-left: 25%;
+      padding-right: 25%;
+     background-color: black ;
      color: white;
    }
 .bg-4{
@@ -47,6 +66,11 @@ layout: default-new
     padding-bottom: 10%;
     background-color: #2ecc71;
     color: white;
+}
+.bg-5 {
+
+    background-color: #EEF093 ;
+    color:black;
   }
 .text1{
     float: center;
@@ -54,15 +78,22 @@ layout: default-new
     font-family: Flatwheat;
     font-size: 50px;
   }
- .container {
-     padding-top: 0px;
-     padding-bottom: 0px;
- }
+
+
 
  .cn1 {
    padding-top: 50px;
    padding-bottom: 50px;
  }
+ .cn2{
+    color: black;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-family: Flatwheat;
+    text-align: center;
+    font-size: 50px;
+ }
+
 
  .p1 {
    padding-top:30px;
@@ -81,7 +112,6 @@ layout: default-new
   text-align: center;
 }
 
-
  .embed-container {
  position: relative;
  padding-bottom: 50%;
@@ -99,56 +129,110 @@ layout: default-new
  width: 100%;
  height: 100%;
 }
+.size{
+  width: 10%;
+  height: 50%;
+ padding-left: 0%;
+}
+
+.margin1{
+  margin-bottom: 40%;
+  text-align: left;
+  font-size: 36px;
+}
  </style>
 
 </style>
-</head>
 
 
 
-<body class="landing bg-1">
-    <div class="container-fluid bg-4 ">
-        <div class="container text1">
 
- Download Application
-<br>
-  <img src="https://visittucsonorg.s3-us-west-1.amazonaws.com/playstore.png" width="10%" height="10%">
+<body background="bg.jpg">
 
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+
+                <img src="map.jpg" alt="Image">
+
+            </div>
+
+            <div class="item">
+                <img src="who.jpg" alt="Image" >
+                <div class="container">
+                <div class="carousel-caption">
+                    <div class="col-md-1 col-xs-12"></div>
+                    <div class="col-md-10 col-xs-12">
+                    <h3 class ="cn2">Download Application</h3></button>
+                    <a href="https://play.google.com/store/apps/details?id=th.in.tamis.app">
+                    <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
+                    style="vertical-align: bottom; height: 24px; margin-left:5px;"></a>
+                </div>
+                </div>
+              <div class="col-md-1 col-xs-12"></div>
+
+            </div>
+            </div>
+            <div class="item">
+                <img src="tamis1.jpg" alt="Image">
+                <div class="col-md-12 col-xs-12">
+                <div class="carousel-caption">
+                  <h1 class="margin1">ใครใช้ได้บ้าง?</h1>
+                </div>
+            </div>
+            </div>
+            </div>
+    <!-- Left and right controls -->
+    <div class="container-fluid">
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
 </div>
 </div>
 </div>
-
+  <div class="container-fluid bg-1">
     <div class="container bg-1 cn1">
         <div class="col-md-6 col-xs-12 margin">
           <table class="table">
               <thead>
                 <tr class="info">
                   <th class="p1">
-                    <h2>ข่าวสารล่าสุด</h2>
+                    <h3>ข่าวสารล่าสุด</h3>
                   </th>
                 </tr>
 
                 <tr class="success">
-                  <th><h4><a href="https://acherrylp.github.io/news1">1.ฤกษ์ดีแอปฯ FAARMis 2.4.2 เปิดใช้งานเป็นทางการ   อ่านต่อ...</a></h5>
+                  <th><h5><a href="https://acherrylp.github.io/news1">1.ฤกษ์ดีแอปฯ FAARMis 2.4.2 เปิดใช้งานเป็นทางการ   อ่านต่อ...</a></h5>
                 </th></tr>
                 <tr class="danger">
-                  <th><h4><a href="#">2.ประกาศปิดปรับปรุงทามิส(TAMIS) v.1.4.1  อ่านต่อ...</a></h4></tr></th>
+                  <th><h5><a href="#">2.ประกาศปิดปรับปรุงทามิส(TAMIS) v.1.4.1  อ่านต่อ...</a></h5></tr></th>
                 <tr class="success">
-                  <th><h4><a href="#">3.ประกาศปิดปรับปรุงทามิส(TAMIS) v.1.4.1  อ่านต่อ...</a></h4></tr></th>
+                  <th><h5><a href="#">3.ประกาศปิดปรับปรุงทามิส(TAMIS) v.1.4.1  อ่านต่อ...</a></h5></tr></th>
                 <tr class="danger">
-                  <th><h4><a href="#">4.ประกาศปิดปรับปรุงทามิส(TAMIS) v.1.4.1  อ่านต่อ...</a></h4></tr></th>
+                  <th><h5><a href="#">4.ประกาศปิดปรับปรุงทามิส(TAMIS) v.1.4.1  อ่านต่อ...</a></h5></tr></th>
                 <tr class="success">
-                  <th><h4><a href="#">5.ประกาศปิดปรับปรุงทามิส(TAMIS) v.1.4.1  อ่านต่อ...</a></h4></tr></th>
+                  <th><h5><a href="#">5.ประกาศปิดปรับปรุงทามิส(TAMIS) v.1.4.1  อ่านต่อ...</a></h5></tr></th>
                 </tbody>
               </table>
 
         </div>
 
         <div class="col-md-6 col-xs-12 p1">
-            <img src="http://www.tamis.in.th/image/assess.png" width="100%">
+            <img src="assess.png" width="100%">
         </div>
     </div>
-
+</div>
 <div class="container-fluid bg-2">
     <div class="container bg-2 cn1">
 
@@ -162,24 +246,53 @@ layout: default-new
         </div>
     </div>
   </div>
-
-    <div class="container bg-1 cn1">
-
-        <div class="col-md-6 col-xs-12" >
+  <div class="container-fluid bg-1">
+    <div class="container bg-1 cn1 ">
+        <div class="col-md-12 col-xs-12 " >
             <center>
                 <h2>Location</h2></center>
             <center>
                 <br>
-                <img src="http://imgsplanet.com/pics/main/31/319245-location.jpg" class="img-circle" width="70%"></center>
+                <img src="http://imgsplanet.com/pics/main/31/319245-location.jpg" class="img-circle" width="40%"></center>
         </div>
-        <div class="col-md-6 col-xs-12">
+      </div>
+      </div>
+          <div class="container-fluid bg-5">
+        <div class="container bg-5 cn1 ">
+    <div class="col-md-2 col-xs-12">
+    </div>
+    <div class="col-md-8 col-xs-12 ">
+        <div class="row">
             <center>
-                <h2>CLIENTS</h2></center>
+                <h2>CLIENTS</h2></center><br>
             <center>
-                <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/2013/12/preview-flat-icon-set.jpg" width="80%"></center>
+
+            <img src="โลโก้กรมวิชาการเกษตร.gif" width="10%">
+            <img src="KMUTT.png" width="10%">
+            <img src="rdlogo.png" width="10%">
+            <img src="logo_bsc.png" width="10%">
+            <img src="Torkorsor.png" width="10%"><br><br>
+            <img src="ENF.jpg" width="10%">
+            <img src="gistda-logo.jpg" width="15%">
+            <img src="kubota.png" width="10%">
+            <img src="rb-v-logo.png" width="15%">
+            <br><br>
+            <img src="logo-ttm-header.png" width="15%">
+            <img src="w-logo-s.png" width="15%">
+            <img src="Organic-Community.jpeg" width="15%">
+
+
+          </center>
+        </div>
+
+        <div class="col-md-8 col-xs-12">
         </div>
     </div>
+</div>
+</div>
+
 <div class="container-fluid bg-2">
+  <center><h3> สถิติ </h3></center>
     <div class="container bg-2 cn1">
 
         <div class="col-sm-3 ">
@@ -214,27 +327,47 @@ layout: default-new
 
   </div>
     </div>
+        <div class="container-fluid bg-3">
+
+            <div class="row">
+        <div class="col-md-4 col-sm-12 "><br>
+          <a href="http://www.nectec.or.th/" target="_blank">
+            <img src="https://netpie.io/public/netpieio/assets/images/logo/nectec_logo_footer.png"
+            style="vertical-align: bottom; height: 24px; margin-left:5px;"> </a>
+          <a href="http://www.nectec.or.th/" target="_blank">
+            <img src="https://netpie.io/public/netpieio/assets/images/logo/nstda_logo.gif"
+                 style="vertical-align: bottom; height: 24px; margin-left:5px;"></a>
+      </div>
+      <br>
+<div class="col-md-4 col-sm-12 ">
+    <ul class="footer-social-block">
+
+        <a href="https://netpie.io/#contact" target="_blank" class="li li-1">
+            <i class="fa fa-envelope" aria-hidden="true"></i>
+        </a>
+
+        <a href="https://www.facebook.com/TAMIS.NECTEC" target="_blank" class="li li-1">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+        </a>
+        <a href="https://github.com/netpieio" target="_blank" class="li li-1">
+            <i class="fa fa-github" aria-hidden="true"></i>
+        </a>
+    </ul>
+</div>
+<div class="col-md-4 col-sm-12">
+    <div class="footer-menu text-xs-center ">
+        <a href="https://netpie.io/policy" style="text-decoration:none"> Privacy Policy </a> |
+        <a href="https://netpie.io/policy" style="text-decoration:none"> Copy right </a>
 
 
-            <div class="row bg-3">
+    </div>
+      </div>
 
-        <div class="col-sm-6 col-xs-12 p3 ">
-
-
-            <img src="http://teamsportbanners.com/tool/soft/assets/icons/fb.png" width="15%"alt="Image" />
-            <br>
-            <h5>www.facebook.com/TAMIS.NECTEC </h5>
-
-            </p>
-           </div>
-
-        <div class="col-sm-6 col-xs-12 p3">
-
-              <img src="https://freeiconshop.com/files/edd/mail-flat.png" width="15%"alt="Image" />
               <br>
-              <h5>Email: info@nectec.or.th.</h5>
+              <h5></h5>
 
         </div>
-      </div>
-    </div>
+        </div>
+
+
 </body>
