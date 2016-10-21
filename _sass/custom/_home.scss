@@ -1,0 +1,171 @@
+.background-green {
+    background-color: #26A69A;
+}
+
+.center{
+  display: block;
+    margin: 0 auto;
+}
+
+.li {
+    padding:5px 15px;
+    border-left: 1px solid #464646;
+ }
+ .li-1  {
+
+    color: #e3e1e1;
+    -webkit-transition: color 0.3s;
+    transition: color 0.3s;
+    text-align: center;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  .nav-tabs li a {
+    color: white;
+}
+
+.carousel-inner img {
+    width: 80%; /* Set width to 100% */
+    margin: auto;
+    min-height:200px;
+}
+
+/* Hide the carousel text when the screen is less than 600 pixels wide */
+@media (max-width: 600px) {
+  .carousel-caption {
+    display: none;
+  }
+}
+.bg-1{
+    background-color: white;
+    color: black;
+
+}
+ .bg-2 {
+     background-color: #EAEDED ;
+     color: black;
+ }
+ .bg-3 {
+      padding-top: 2% ;
+     padding-bottom:2% ;
+     padding-left: 25%;
+      padding-right: 25%;
+     background-color: black ;
+     color: white;
+   }
+.bg-4{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: #2ecc71;
+    color: white;
+}
+.bg-5 {
+
+    background-color: white ;
+    color:black;
+  }
+.text1{
+    float: center;
+    text-align: center;
+    font-family: Flatwheat;
+    font-size: 50px;
+  }
+
+
+
+ .cn1 {
+   padding-top: 50px;
+   padding-bottom: 50px;
+ }
+ .cn2{
+    color: black;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-family: Flatwheat;
+    text-align: center;
+    font-size: 50px;
+ }
+
+
+ .p1 {
+   padding-top:30px;
+   display: block;
+   margin: 0 auto;
+   text-align: center;
+ }
+
+.p2 {
+  padding-top: 50px;
+  left: 20%;
+}
+.p3 {
+  padding-top: 20px;
+  float: center;
+  text-align: center;
+}
+
+ .embed-container {
+ position: relative;
+ padding-bottom: 50%;
+ height: 60%;
+ overflow: hidden;
+ width: 100%;
+ display: block;
+ margin: 0 auto;
+
+}
+ .embed-container iframe, .embed-container object, .embed-container embed {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+}
+.size{
+  width: 10%;
+  height: 50%;
+ padding-left: 0%;
+}
+
+.margin1{
+  padding-right: 50%;
+  padding-bottom:35%;
+  text-align:center;
+  font-size: 100px;
+}
+.landing .landing-cover.landing-cover-header {
+    height: 660px;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #e5e5e5;
+    padding-top: 100px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.logo{
+  display: block;
+  padding-top: 5%;
+}
+.font{
+  font-size:50px;
+  font-family: TH SarabunPSK;
+  text-align: center;
+  font-weight: bold;
+}
+
+.font1{
+  font-size:70px;
+  font-family: TH SarabunPSK;
+  text-align: center;
+  font-weight: bold;
+}
+
+.intro-header {
+    height: 100%;
+  }
+s
