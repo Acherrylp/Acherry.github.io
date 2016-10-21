@@ -8,7 +8,7 @@ install:
   - bundle instal
 script:
   - jekyll build
-  - htmlproofer ./_site --check-html --check-fivicon
+  - htmlproofer ./_site --check-html 
 
   env:
       global:
