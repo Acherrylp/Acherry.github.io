@@ -13,9 +13,6 @@
     <meta name="viewport" content="width=480px; initial-scale=0.5; maximum-scale=1.0;">
    <link href="https://d340syr2dan8gj.cloudfront.net/assets/application-65a009b5bdf7f2ca0906dae6a2f01be1.css" media="screen" rel="stylesheet">
  <style>
-
-
-
  .launch-nav{
     position: absolute;
     margin-top: 20px;
@@ -26,7 +23,6 @@
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
-
  }
  .dropbtn {
     display: inline-block;
@@ -35,15 +31,12 @@
     text-decoration: none;
     font-size: 20px;
 }
-
 li a:hover, .dropdown:hover .dropbtn {
     background-color:#26A69A   ;
 }
-
 li.dropdown {
     display: inline-block;
 }
-
 .dropdown-content {
     display: none;
     position: absolute;
@@ -51,7 +44,6 @@ li.dropdown {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
-
 .dropdown-content a {
     color: black;
     padding: 12px 16px;
@@ -60,47 +52,13 @@ li.dropdown {
     font-size: 20px;
     text-align: left;
 }
-
-
 .dropdown-content a:hover {background-color: #A9DFBF}
-
 .dropdown:hover .dropdown-content {
     display: block;
 }
 </style>
-
-  <body class="landing ">
-
-   <div class="launch-nav navbar navbar-default scroll-fade">
-     <div class="container intro-header">
-
-       <div class="navbar-brand">
-         <a href="https://acherrylp.github.io/home"><img  height="80" src="logo.png" width="80"></a>
-       </div>
-
-       <ul class="nav navbar-nav navbar-right ">
-         <li class=" dropdown">
-           <a href="#" class="dropbtn"><font size="4.6">เกี่ยวกับ</font></a>
-           <div class="dropdown-content">
-             <a href="https://acherrylp.github.io/means">รู้จักกับ TAMIS</a>
-             <a href="#">ประโยชน์ TAMIS</a>
-             <a href="https://acherrylp.github.io/news">ข่าวและกิจกรรม</a>
-           </div>
-         </li>
-         <li>
-           <a  href="#"><font size="4.6">ดาวน์โหลด</font></a>
-         </li>
-         <li >
-           <a href="#"><font size="4.6">ราคา</font></a>
-         </li>
-
-         <li class="signin">
-             <a href="#"><font size="4.6">เข้าสู่ระบบ</font></a>
-         </li>
-       </ul>
-
-     </div>
-   </div>
+<body class="landing">
+  {% include header.html%}
 
   <main>
      {{ content }}
