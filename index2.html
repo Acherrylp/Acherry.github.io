@@ -4,10 +4,11 @@ date: 2016-10-18 +0700
 categories: index
 description: index
 author: Me
-layout: default-nav
+layout: default-nav1
 ---
 <html>
 <head>
+
   <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
   <script src="https://use.fontawesome.com/e7c39939ee.js"></script>
   <link rel="stylesheet" type="text/css" href="library/css/custom-theme/jquery-ui-1.10.3.custom.css">
@@ -17,8 +18,9 @@ layout: default-nav
 </head>
 <style>
 
-.background-green {
-    background-color: #26A69A;
+.background {
+  background-image: image(bg.jpg);
+  background-color: #26A69A;
 }
 
 .center{
@@ -144,31 +146,14 @@ layout: default-nav
 <body>
 
 
-  <div class="background-green landing-cover landing-cover-header landing-cover-index background intro-header">
+  <div class="landing-cover landing-cover-header">
   <div class="bg-overlay full-coverage"></div>
-  <div class="row">
-    <div class="col-md-10 col-md-offset-1">
-      <div class="font1">TAMIS</div>
-      <div class="cover-action hidden"><a href="/checkout/free" class="landing-btn landing-btn-large landing-btn-blue">CREATE A FREE ACCOUNT</a></div>
-      <p>
-        <h3>Thailand Agriculture Mobile Information System. </h3>
-      </p>
-      <h3>Download Application</h3></button><br>
-        <a href="https://play.google.com/store/apps/details?id=th.in.tamis.app"  target="_blank">
-          <img class="center" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="20%"></a><br>
-          <p> <i>"ระบบขึ้นทะเบียนเกษตรกร<br>
-                  และตรวจประเมินคุณภาพการผลิตพืช GAP/ข้าวอินทรีย์ "</i></p>
-      </a>
-
-      </div>
-    </div>
-  </div>
 </div>
 
     <div class="row">
     <div class="col-md-12 col-xs-12 img1" >
       <center>
-      <img src="INFO_TAMIS.png" width="70%" height="70%" ></center>
+      <img src="pics/INFO_TAMIS.png" width="70%" height="70%" ></center>
     </div>
 </div>
 <div class="container-fluid bg-3">
@@ -186,29 +171,7 @@ layout: default-nav
     </center>
 </div>
 <br>
-<div class="col-md-4 col-sm-12 ">
-<ul class="footer-social-block">
-
-<a href="https://netpie.io/#contact" target="_blank" class="li li-1">
-    <i class="fa fa-envelope" aria-hidden="true"></i>
-</a>
-
-<a href="https://www.facebook.com/TAMIS.NECTEC" target="_blank" class="li li-1">
-    <i class="fa fa-facebook" aria-hidden="true"></i>
-</a>
-<a href="https://github.com/netpieio" target="_blank" class="li li-1">
-    <i class="fa fa-github" aria-hidden="true"></i>
-</a>
-</ul>
-</div>
-<div class="col-md-4 col-sm-12">
-<div class="footer-menu text-xs-center " align="center" >
-<a href="https://netpie.io/policy" style="text-decoration:none" ><font color=" white"> Privacy Policy </font></a> |
-<a href="https://netpie.io/policy" style="text-decoration:none" ><font color=" white"> Copy right </font></a>
-
-
-</div>
-</div>
+{% include footer.html %}
 
 </body>
 </html>
