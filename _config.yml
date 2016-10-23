@@ -29,4 +29,3 @@ permalink: /blog/:title
 # Build settings
 encording : utf-8
 markdown: kramdown
-theme: minima
