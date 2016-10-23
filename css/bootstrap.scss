@@ -7,7 +7,7 @@
  */
 
 // Core variables and mixins
-@import "custom/home";
+
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
 
@@ -57,3 +57,5 @@
 // Utility classes
 @import "bootstrap/utilities";
 @import "bootstrap/responsive-utilities";
+
+@import "custom/home";
