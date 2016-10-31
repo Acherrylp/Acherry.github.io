@@ -1,172 +1,25 @@
 ---
 title: Home
-date: 2016-10-18 +0700
-categories: index
-description: index
+date: 2016-10-24 +0700
+categories: Home
+description: Home
 author: Me
-layout: default-nav1
+layout: default-new2
 ---
-<html>
-<head>
-
-{% include head.html %}
+{% include header2.html %}
 
 <style>
-
-.background {
-  background-image: image(bg.jpg);
-  background-color: #26A69A;
-}
-
-.center{
+.align {
   display: block;
-    margin: 0 auto;
-}
-
-.li {
-    padding:5px 15px;
-    border-left: 1px solid #464646;
- }
- .li-1  {
-
-    color: #e3e1e1;
-    -webkit-transition: color 0.3s;
-    transition: color 0.3s;
-    text-align: center;
-}
-.navbar {
-    margin-bottom: 0;
-    border-radius: 0;
-  }
-  .nav-tabs li a {
-    color: white;
-}
-
-.carousel-inner img {
-    width: 80%; /* Set width to 100% */
-    margin: auto;
-    min-height:200px;
-}
-
-/* Hide the carousel text when the screen is less than 600 pixels wide */
-@media (max-width: 600px) {
-  .carousel-caption {
-    display: none;
-  }
-}
-.bg-1{
-    background-color: white;
-    color: black;
-
-}
- .bg-2 {
-     background-color: #EAEDED ;
-     color: black;
- }
- .bg-3 {
-      padding-top: 2% ;
-     padding-bottom:2% ;
-     padding-left: 25%;
-      padding-right: 25%;
-     background-color: black ;
-     color: white;
-   }
-
-
-
- .embed-container {
- position: relative;
- padding-bottom: 50%;
- height: 60%;
- overflow: hidden;
- width: 100%;
- display: block;
- margin: 0 auto;
-
-}
- .embed-container iframe, .embed-container object, .embed-container embed {
- position: absolute;
- top: 0;
- left: 0;
- width: 100%;
- height: 100%;
-}
-.size{
-  width: 10%;
-  height: 50%;
- padding-left: 0%;
-}
-
-.margin1{
-  padding-right: 50%;
-  padding-bottom:35%;
-  text-align:center;
-  font-size: 100px;
-}
-.landing .landing-cover.landing-cover-header {
-    height: 660px;
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #e5e5e5;
-    padding-top: 100px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-.logo{
-  display: block;
-  padding-top: 5%;
-}
-.font{
-  font-size:50px;
-  font-family: TH SarabunPSK;
-  text-align: center;
-  font-weight: bold;
-}
-
-.font1{
-  font-size:70px;
-  font-family: TH SarabunPSK;
-  text-align: center;
-  font-weight: bold;
-}
-.img1{
-
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
+  margin-left: auto;
+  margin-right: auto }
 </style>
 <body>
 
-
-  <div class="landing-cover landing-cover-header">
-  <div class="bg-overlay full-coverage"></div>
-</div>
-
-    <div class="row">
-    <div class="col-md-12 col-xs-12 img1" >
-      <center>
-      <img src="pics/INFO_TAMIS.png" width="70%" height="70%" ></center>
-    </div>
-</div>
-<div class="container-fluid bg-3">
-
-    <div class="row">
-<div class="col-md-4 col-sm-12 "><br>
-  <center>
-  <a href="http://www.nectec.or.th/" target="_blank">
-    <img src="https://netpie.io/public/netpieio/assets/images/logo/nectec_logo_footer.png"
-    style="vertical-align: bottom; height: 24px; margin-left:5px;"> </a>
-  <a href="http://www.nectec.or.th/" target="_blank">
-
-    <img src="https://netpie.io/public/netpieio/assets/images/logo/nstda_logo.gif"
-         style="vertical-align: bottom; height: 24px; margin-left:5px;"></a>
-    </center>
-</div>
 <br>
-{% include footer.html %}
+<img class="align" src="pics/INFO_TAMIS.png" alt="การตรวจประเมิณคุณภาพ" width="50%"/>
+<br>
 
+
+{% include footer2.html %}
 </body>
-</html>
