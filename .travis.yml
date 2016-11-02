@@ -9,8 +9,7 @@ install:
 script:
   - jekyll build
   - htmlproofer ./_site --check-html
-  - java -jar vnu.jar --skip-non-html _site
 
 env:
   global:
-    -NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  -NOKOGIRI_USE_SYSTEM_LIBRARIES=true
