@@ -4,7 +4,7 @@
   categories: News		
   description: News9
   author: Me		 
-  layout: default-new2
+  layout: default
 ---
 
 # เปิดโลกเทคโนโลยีให้ชาวหม่อนไหม   
