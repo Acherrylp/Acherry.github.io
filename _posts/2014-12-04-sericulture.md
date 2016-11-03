@@ -4,7 +4,7 @@
   categories: News		
   description: เพื่อช่วยเหลือเกษตรกรรับมือกับสภาพอากาศ แก้ปัญหาที่เกิดขึ้นในทันที	  
   author: Me
-  layout: default-new2
+  layout: default
 ---
 
 # เกษตรกรเลี้ยงไหม ปรับตัวรับสภาพอากาศ  
