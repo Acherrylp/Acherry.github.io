@@ -1,10 +1,10 @@
 ---
   title: บูรณาการงานวิจัย'ข้าวไทยสู่สากล'
-  date: 2016-9-30 +0700		  
+  date: 2016-09-30 +0700		  
   categories: News		
   description: News7		  
   author: Me		 
-  layout: default-new2
+  layout: default
 ---
 
 
