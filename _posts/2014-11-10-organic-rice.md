@@ -4,7 +4,7 @@
   categories: News		
   description: News6		  
   author: Me		 
-  layout: default-new2
+  layout: default
 ---
 
 
