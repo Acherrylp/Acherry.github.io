@@ -2,7 +2,7 @@
   title: TAMIS แอพนี้เพื่อชาวนา
   date: 2014-11-30 +0700		  
   categories: News		
-  description: News2	  
+  description: จัดโครงการ “พัฒนานักประกอบการวิสาหกิจชุมชนข้าวอินทรีย์” จ.ยโสธรและมอบแท็บเล็ตให้กลุ่มเกษตรกรวิสาหกิจข้าวอินทรีย์
   author: Me		 
   layout: default
 ---
