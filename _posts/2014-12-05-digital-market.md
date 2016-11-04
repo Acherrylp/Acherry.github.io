@@ -2,7 +2,7 @@
   title: วางฐานดิจิตอลตลาดไหมไทย
   date: 2014-12-05 +0700		  
   categories: News		
-  description: News12
+  description: กรมหม่อนไหมร่วมกับสวทช. พัฒนาระบบเทคโนโลยีสารสนเทศ ภายใต้แนวคิด Small Farmer to Single Market by Mobile Thai Silk
   author: Me		 
   layout: default
 ---
