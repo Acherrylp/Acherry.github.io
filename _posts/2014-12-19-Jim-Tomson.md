@@ -2,8 +2,8 @@
   title: หม่อนไหม ยกระดับ Small Farmer สู่ความเป็นมืออาชีพ
   date: 2014-12-19 +0700		  
   categories: News		
-  description: News15
-  author: Me		 
+  description: จิมทอมป์สันฟาร์มร่วมกับ เนคเทค เปิดตัวระบบ Mobile Thai Silk 
+  author: Me		  
   layout: default
 ---
 
