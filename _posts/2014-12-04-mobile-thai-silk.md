@@ -8,7 +8,8 @@
 ---
 # Mobile Thai Silk ระบบไอทีจัดการกระบวนการผลิตและตลาดไหมไทย พัฒนาชีวิตเกษตรกร  
 
-<a href="https://www.youtube.com/watch?v=ndXkgIn0f7A" target="blank">
+![alt ImageTamis](https://www.youtube.com/watch?v=ndXkgIn0f7A)
+
 <div style="text-align:center" markdown="1">
 ![alt ImageTamis](https://www.it24hrs.com/wp-content/uploads/2014/12/mobile-thai-silk-600x337.jpg)
 </div>
