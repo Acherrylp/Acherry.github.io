@@ -47,5 +47,4 @@
 ![alt ImageTamis](http://www.manager.co.th/asp-bin/Image.aspx?ID=3394145) <br><br> ถ่ายรูปบันทึกข้อมูลลงระบบทามิส <br><br>
 ![alt ImageTamis](http://www.manager.co.th/asp-bin/Image.aspx?ID=3394146) <br><br> นายวัชรากร หนูทอง <br><br>
 ![alt ImageTamis](http://www.manager.co.th/asp-bin/Image.aspx?ID=3394147) <br><br> นางสมหญิง ชูประยูร <br><br>
-![alt ImageTamis](http://www.manager.co.th/asp-bin/Image.aspx?ID=3394148) <br><br>
 </div>
