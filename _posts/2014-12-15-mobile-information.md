@@ -2,7 +2,7 @@
   title: Mobile information system offers benefits to silk farmers NECTEC  
   date: 2014-12-15 +0700		  
   categories: News		
-  description: News14
+  description: Mobile information system offers benefits to silk farmers NECTEC 
   author: Me		 
   layout: default
 ---
