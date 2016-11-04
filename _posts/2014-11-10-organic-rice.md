@@ -2,13 +2,13 @@
   title: พัฒนากลุ่มวิสาหกิจข้าวอินทรีย์
   date: 2014-11-10 +0700		  
   categories: News		
-  description: News6		  
+  description: พัฒนากลุ่มวิสาหกิจข้าวอินทรีย์ที่ จ.ยโสธร ด้วยวิทยาศาสตร์และเทคโนโลยี	  
   author: Me		 
   layout: default
 ---
 
 
-# พัฒนากลุ่มวิสาหกิจข้าวอินทรีย์ที่ จ.ยโสธร ด้วยวิทยาศาสตร์และเทคโนดลยี (ตอนจบ)
+# พัฒนากลุ่มวิสาหกิจข้าวอินทรีย์ที่ จ.ยโสธร ด้วยวิทยาศาสตร์และเทคโนโลยี (ตอนจบ)
 <br>
  <p>The development of an enterprise
 group with science and technology
