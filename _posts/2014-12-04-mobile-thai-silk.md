@@ -2,7 +2,7 @@
   title: Mobile Thai Silk
   date: 2014-12-04 +0700		  
   categories: News		
-  description: News10
+  description: ระบบไอทีจัดการกระบวนการผลิตและตลาดไหมไทย พัฒนาชีวิตเกษตรกร
   author: Me		 
   layout: default
 ---
