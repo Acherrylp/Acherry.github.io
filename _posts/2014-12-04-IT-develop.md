@@ -7,8 +7,9 @@
   layout: default
 ---
 
-
-<center><img src="http://media.komchadluek.net/img/size1/2014/12/03/g6jfc897ggdjjhkac6g97.jpg"alt="ImageTamis"></center>
+<div style="text-align:center" markdown="1">
+![alt ImageTamis](http://media.komchadluek.net/img/size1/2014/12/03/g6jfc897ggdjjhkac6g97.jpg)
+</div>
 # กรมหม่อนไหมเปิดไอทีพัฒนาการผลิตและตลาดไหมไทย
 
 ### กรมหม่อนไหมจับมือเนคเทค เปิดตัวระบบเทคโนโลยีสารสนเทศเพื่อการจัดการกระบวนการผลิตและการตลาดไหมไทย ตั้งเป้ายกระดับอาชีพเกษตรกรไหมไทยก้าวไกลสู่ตลาดด้วยไอที    
