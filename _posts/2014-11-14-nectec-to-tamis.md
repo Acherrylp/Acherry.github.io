@@ -2,7 +2,7 @@
   title: เนคเทคส่งระบบ TAMIS ถึงมือเกษตรกร  
   date: 2014-11-14 +0700		  
   categories: News 		
-  description: News4		  
+  description: ใช้ระบบสารสนเทศเพื่อการเกษตรแบบพกพา มอบแทบเลตที่ติดตั้งระบบ TAMIS ให้กับกลุ่มเกษตรกร		  
   author: Me		 
   layout: default
 ---
