@@ -1,5 +1,5 @@
 ---
-layout: default-new2
+layout: default
 title: about
 permalink: /about/
 ---
