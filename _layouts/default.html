@@ -1,4 +1,3 @@
-
 <html>
   {% include head.html %}
   <body>
