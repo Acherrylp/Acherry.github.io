@@ -7,162 +7,77 @@ author: Me
 layout: page-1
 ---
 <style>
-.bg-2 {
-    background-color: #474e5d;
-  }
-.bg-1{
-    background-color: #CCFFFF;
+.img-1{
+  border: 1px solid #ccc;
+  opacity: 0.8;
+    filter: alpha(opacity=50);
 }
-.navbar {
-    margin-bottom: 0;
-    border-radius: 0;
-  }
-  .nav-tabs li a {
-    color: #474e5d;
+.img-1:hover{
+  border: 1px solid #777;
+  opacity: 2.0;
+    filter: alpha(opacity=100);
 }
-
-  /* Add a gray background color and some padding to the footer */
-
-
-.carousel-inner img {
-    width: 80%; /* Set width to 100% */
-    margin: auto;
-    min-height:200px;
+.img-1{
+  width: 100%;
+  height: 40%;
 }
-
-/* Hide the carousel text when the screen is less than 600 pixels wide */
-@media (max-width: 600px) {
-  .carousel-caption {
-    display: none;
-  }
-}
-div.img {
-    margin: 20px;
-    border: 1px solid #ccc;
-    float: center;
-    width: 350px;
-    height: 270px;
-}
-
-div.img:hover {
-    border: 1px solid #777;
-}
-
-div.img img {
-    width: 100%;
-    height: 90%;
-}
-
-div.desc {
-    padding: 10px;
-    text-align: center;
-}
-
-.center {
-    margin: auto;
-    width: 60%;
-  }
-
-.ct{
-  padding-left: 40%;
-}
-.background-green {
-    background-color: #26A69A;
-    padding-top: 15%;
-    padding-bottom: 15%;
-}
-.font1{
-  font-size:70px;
+.desc{
+  padding: 15px;
   text-align: center;
-  color: white;
 }
-.intro-header {
-    height: 100%;
-  }
-.cnt {
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  color: white;
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
 }
-.center{
-  display: block;
-  margin: 0 auto;
-  padding-left: 20%;
-  padding-right: 20%;
-}
-
 </style>
-
-
-<div class="background-green">
-
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            <div class="font1">TAMIS</div>
-
-                <h3 class="cnt">Thailand Agriculture Mobile Information System. </h3>
-            <h3 class="cnt">Download Application</h3><br>
-            <a href="https://play.google.com/store/apps/details?id=th.in.tamis.app" target="_blank">
-                <img class="center" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="5%" alt="ImageTamis">
-            </a><br>
-            <h3 class="cnt"> <i>"ระบบขึ้นทะเบียนเกษตรกร<br>
-                และตรวจประเมินคุณภาพการผลิตพืช GAP/ข้าวอินทรีย์"</i></h3>
-
-
-        </div>
-    </div>
-</div>
-
-
 
 <div class="container-fluid">
     <ul class="nav nav-tabs">
         <li class="active"><a data-toggle="tab" href="#home">ข่าวทั้งหมด</a></li>
-        <li><a data-toggle="tab" href="#menu1">กิจกรรม</a></li>
-        <li><a data-toggle="tab" href="#menu2">Gallary</a></li>
+        <li><a data-toggle="tab" href="#menu1">กิจกรรมและแกลลอรี่</a></li>
     </ul>
 </div>
 <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
-        <center>
-            <h2>ข่าวทั้งหมด</h2></center>
+            <h2  style="text-align:center;">ข่าวทั้งหมด</h2>
         <div class="container text-center">
             <div class="row">
-                <div class="col-sm-4 img">
-                    <a href="https://acherrylp.github.io/blog/IT-develop">
-                    <img src="http://media.komchadluek.net/img/size1/2014/12/03/g6jfc897ggdjjhkac6g97.jpg" class="img-responsive" width="100%" height="500px"  alt="Image"></a>
-                    <a href="https://acherrylp.github.io/blog/IT-develop"><p>กรมหม่อนไหมเปิดไอทีพัฒนาการผลิต...</p></a>
-                </div>
-                <div class="col-sm-4 img">
-                    <a href="https://acherrylp.github.io/blog/offer-tablet">
-                    <img src="http://mpics.manager.co.th/pics/Images/557000013361101.JPEG" class="img-responsive"  alt="Image"></a>
-                    <a href="https://acherrylp.github.io/blog/offer-tablet"><p>มอบแท็บเล็ตลงทะเบียนเกษตรกร</p></a>
-                </div>
-                <div class="col-sm-4 img">
-                    <a href="https://acherrylp.github.io/blog/open-tecnology">
-                    <img src="http://www.manager.co.th/asp-bin/Image.aspx?ID=3394143" class="img-responsive"  alt="Image"></a>
-                    <a href="https://acherrylp.github.io/blog/open-tecnology"><p>เปิดโลกเทคโนโลยีให้ชาวหม่อนไหม</p></a>
-                </div>
+                <div class="col-md-4 col-sm-6 ">
+                    <a href="https://acherrylp.github.io/blog/qsds-nectec-debut-tamis-at-jim-thomson" style="text-decoration: none;">
+                    <img class="img-1" src="pics/news/2014-12-04-2.jpg" alt="Image">
+                    <p class="desc">กรมหม่อนไหมเปิดไอทีพัฒนาการผลิต...</p></a>
 
-
-                <div class="col-sm-4 img">
-                    <a href="https://acherrylp.github.io/blog/mobile-thai-silk">
-                    <img src="http://www.manager.co.th/asp-bin/Image.aspx?ID=3394141" class="img-responsive"  alt="Image"></a>
-                    <a href="https://acherrylp.github.io/blog/mobile-thai-silk"><p>Mobile Thai Silk</p></a>
                 </div>
-                <div class="col-sm-4 img">
-                    <a href="https://acherrylp.github.io/news">
-                    <img src="pics/meeting.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
-                    <a href="https://acherrylp.github.io/news"><p>แนะนำแอปฯใหม่ FAARMis (TAMIS v.2.0)</p></a>
+                <div class="col-md-4 col-sm-6 ">
+                    <a href="https://acherrylp.github.io/blog/qsds-develop-production-by-thai-silk-market" style="text-decoration: none;">
+                    <img class="img-1" src="pics/news/2014-12-04-1.jpg" alt="Image">
+                    <p class="desc">กรมหม่อนไหมเปิดไอทีพัฒนาการผลิตและตลาดไหมไทย</p></a>
                 </div>
-                <div class="col-sm-4 img">
-                    <a href="https://acherrylp.github.io/blog/farmer-app">
-                    <img src="http://media.komchadluek.net/img/size1/2014/11/28/egfe66h56efc7h5iabfic.jpg" class="img-responsive"  alt="Image"></a>
-                    <a href="https://acherrylp.github.io/blog/farmer-app"><p>คอฟฟี่เบรค : TAMIS แอพนี้เพื่อชาวนา</p></a>
+                <div class="col-md-4 col-sm-6 ">
+                    <a href="https://acherrylp.github.io/blog/open-technology-to-silk-farmers" style="text-decoration: none;">
+                    <img class="img-1" src="pics/news/2014-12-04-10.jpg" alt="Image">
+                    <p class="desc">เปิดโลกเทคโนโลยีให้ชาวหม่อนไหม </p></a>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 ">
+                    <a href="https://acherrylp.github.io/blog/farmer-app" style="text-decoration: none;">
+                    <img class="img-1" src="pics/news/2014-11-30-1.jpg" alt="Image">
+                    <p class="desc">คอฟฟี่เบรค : TAMIS แอพนี้เพื่อชาวนา...</p></a>
+                    <br>
+                </div>
+                <div class="col-md-4 col-sm-6 ">
+                    <a href="https://acherrylp.github.io/blog/qsds-develop-production-by-thai-silk-market" style="text-decoration: none;">
+                    <img class="img-1" src="pics/news/2014-12-04-1.jpg" alt="Image">
+                    <p class="desc">กรมหม่อนไหมเปิดไอทีพัฒนาการผลิตและตลาดไหมไทย</p></a>
+                </div>
+                <div class="col-md-4 col-sm-6 ">
+                    <a href="https://acherrylp.github.io/blog/open-technology-to-silk-farmers" style="text-decoration: none;">
+                    <img class="img-1" src="pics/news/2014-12-04-10.jpg" alt="Image">
+                    <p class="desc">เปิดโลกเทคโนโลยีให้ชาวหม่อนไหม </p></a>
+                </div>
+
         </div>
     </div>
 
