@@ -6,13 +6,12 @@
   author: Me		 
   layout: default
 ---
-
-
 # TAMIS แอพนี้เพื่อชาวนา
-## คอฟฟี่เบรค : TAMIS แอพนี้เพื่อชาวนา : เรื่อง / ภาพ  สินีพร มฤคพิทักษ์
+
+### คอฟฟี่เบรค:TAMIS แอพนี้เพื่อชาวนา : เรื่อง / ภาพ  สินีพร มฤคพิทักษ์
 <br>
 <div style="text-align:center" markdown="1">
-![alt ImageTamis](http://media.komchadluek.net/img/size1/2014/11/28/egfe66h56efc7h5iabfic.jpg)
+![alt ImageTamis](/pics/news/2014-11-30-1.jpg)
 </div>
 
 <br>
@@ -45,4 +44,4 @@
 
 <p> 1.<a href="http://www.tamis.in.th" target="blank">http://www.tamis.in.th</a> </p>
 <p> 2.โหลดแอพพลิเคชั่นจาก Google Play Store </p>
-<p> 3.ลงทะเบียนเกษตรกรที่เป็นสมาชิกด้วยบัตรสมาร์ทการ์ด</p>
+<p> 3.ลงทะเบียนเกษตรกรที่เป็นสมาชิกด้วยบัตรสมาร์ทการ์ด</p><br>
