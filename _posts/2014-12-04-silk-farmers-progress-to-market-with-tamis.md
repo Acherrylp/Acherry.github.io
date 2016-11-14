@@ -46,5 +46,6 @@
 </div>
 <br>
 
-<center>แหล่งที่มา : ศูนย์สารสนเทศหม่อนไหมและประชาสัมพันธ์ กรมหม่อนไหม  http://www.qsds.go.th</center>
+<center>แหล่งที่มา : ศูนย์สารสนเทศหม่อนไหมและประชาสัมพันธ์ กรมหม่อนไหม
+<a href= "http://www.qsds.go.th" target="blank">http://www.qsds.go.th</a></center>
 <br>
