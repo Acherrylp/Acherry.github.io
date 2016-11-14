@@ -7,8 +7,12 @@
   layout: default
 ---
 
-# Mobile Thai Silk ระบบไอทีจัดการกระบวนการผลิตและตลาดไหมไทย พัฒนาชีวิตเกษตรกร  
-
+# Mobile Thai Silk ระบบไอทีจัดการกระบวนการผลิตและตลาดไหมไทย พัฒนาชีวิตเกษตรกร
+<br>
+<div style="text-align:center" markdown="1">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ndXkgIn0f7A" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
 <div style="text-align:center" markdown="1">
 ![alt ImageTamis](/pics/news/2014-12-04-2.jpg)
 </div>
@@ -85,4 +89,7 @@
 <br>
 <p> และนี่คือผลงานนักวิจัยไทย Mobile Thai Silk ระบบเทคโนโลยีสารสนเทศเพื่อการจัดการกระบวนการผลิตและตลาดไหมไทย  ที่พร้อมที่จะนำไอทีมาช่วยชาวเกษตรผู้ผลิตไหมไทย ให้ได้รับข้อมูลที่แม่นยำถูกต้อง ปลอดภัย น่าเชือถือ ลดขั้นตอนการซื้อผ่านพ่อค้าคนกลาง ได้ข้อมูลมาวิเคราะห์และวางแผนพัฒนาตลาดไหมไทยให้เติบโตแข่งขันกับต่างชาติได้มากขึ้น ทำให้คุณภาพชีวิตของเกษตรกรไทยดีขึ้นด้วย</p>
 
-<p> สำหรับผู้ที่สนใจ เกี่ยวกับระบบ  TAMIS – Thailand Argiculture Mobilie Information System ซึ่งเป็น ระบบสารสนเทศเพื่อเกษตรไทยแบบพกพา ที่นำมาพัฒนาต่อยอดมาเป็น Mobile Thai Silk  ระบบไอทีเพื่อการจัดการผลิตและตลาดไหมไทย สามารถดูได้ที่เว็บไซต์ tamis.in.th </p><br>
+<p> สำหรับผู้ที่สนใจ เกี่ยวกับระบบ  TAMIS – Thailand Argiculture Mobilie Information System ซึ่งเป็น ระบบสารสนเทศเพื่อเกษตรไทยแบบพกพา ที่นำมาพัฒนาต่อยอดมาเป็น Mobile Thai Silk  ระบบไอทีเพื่อการจัดการผลิตและตลาดไหมไทย สามารถดูได้ที่เว็บไซต์ tamis.in.th </p>
+<br>
+แหล่งที่มา : ไอที24ชั่วโมง เทคโนโลยีใกล้ตัว เพื่อชีวิตที่ดีขึ้น <a herf ="https://www.it24hrs.com"> https://www.it24hrs.com </a>
+<br>
