@@ -16,4 +16,4 @@
 
 <p> หมวดหมู่ของข่าว: เศรษฐกิจ การค้า การลงทุน</p>
 <p> แหล่งข่าว: แนวหน้า</p>
-<p> ที่มา http://www.naewna.com/local/133944</p>
+<p> ที่มา :<a href="http://www.naewna.com/local/133944" target="blank"> http://www.naewna.com/local/133944</a></p>
