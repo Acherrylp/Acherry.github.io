@@ -50,3 +50,6 @@
 ![alt ImageTamis](/pics/news/2014-12-04-17.jpg) <br><br> นางสมหญิง ชูประยูร <br><br>
 </div>
 <br>
+แหล่งที่มา :
+<a href="http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353" target="blank">
+http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353</a>
