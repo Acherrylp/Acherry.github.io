@@ -92,5 +92,5 @@
 <p> สำหรับผู้ที่สนใจ เกี่ยวกับระบบ  TAMIS – Thailand Argiculture Mobilie Information System ซึ่งเป็น ระบบสารสนเทศเพื่อเกษตรไทยแบบพกพา ที่นำมาพัฒนาต่อยอดมาเป็น Mobile Thai Silk  ระบบไอทีเพื่อการจัดการผลิตและตลาดไหมไทย สามารถดูได้ที่เว็บไซต์ tamis.in.th </p>
 <br>
 แหล่งที่มา : ไอที24ชั่วโมง เทคโนโลยีใกล้ตัว เพื่อชีวิตที่ดีขึ้น
-<a herf ="https://www.it24hrs.com/"> https://www.it24hrs.com </a>
+
 <br>
