@@ -7,7 +7,13 @@
   layout: default
 ---
 
-# เปิดโลกเทคโนโลยีให้ชาวหม่อนไหม   
+# เปิดโลกเทคโนโลยีให้ชาวหม่อนไหม  
+ <br>
+ แหล่งที่มา :
+ <a href="http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353" target="blank">
+ http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353</a>
+ <br>
+
 <div style="text-align:center" markdown="1">
 ![alt ImageTamis](/pics/news/2014-12-04-10.jpg) <br>
 <p>เกษตรกรปลูกหม่อนเลี้ยงไหมที่เข้าร่วมในระบบเทคโนโลยีสารสนเทศเพื่อการจัดการกระบวนการผลิตและการตลาดไหมไทยของกรมหม่อนไหมและเนคเทค</p>
@@ -50,6 +56,3 @@
 ![alt ImageTamis](/pics/news/2014-12-04-17.jpg) <br><br> นางสมหญิง ชูประยูร <br><br>
 </div>
 <br>
-แหล่งที่มา :
-<a href="http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353" target="blank">
-http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353</a>

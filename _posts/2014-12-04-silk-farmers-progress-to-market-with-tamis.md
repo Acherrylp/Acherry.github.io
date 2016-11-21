@@ -8,7 +8,10 @@
 ---
 
 # เกษตรกรไหมไทย ก้าวไกลสู่ตลาด ด้วยระบบสารสนเทศ
-
+<br>
+แหล่งที่มา : ศูนย์สารสนเทศหม่อนไหมและประชาสัมพันธ์ กรมหม่อนไหม
+<a href= "http://www.qsds.go.th" target="blank">http://www.qsds.go.th</a>
+<br>
 <div style="text-align:center" markdown="1">
 ![alt ImageTamis](/pics/news/2014-12-04-tamis.jpg)
 </div>
@@ -46,6 +49,5 @@
 </div>
 <br>
 
-<center>แหล่งที่มา : ศูนย์สารสนเทศหม่อนไหมและประชาสัมพันธ์ กรมหม่อนไหม
-<a href= "http://www.qsds.go.th" target="blank">http://www.qsds.go.th</a></center>
+
 <br>

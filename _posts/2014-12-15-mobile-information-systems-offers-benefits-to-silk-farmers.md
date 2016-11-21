@@ -10,6 +10,8 @@
 
 # Mobile information system offers benefits to silk farmers NECTEC  
 
+<p> Reference : JIRAPAN BOONNON. 2557. The Nation. ฉบับวันที่ 11 ธันวาคม พ.ศ. 2557, หน้า 1B,4B </p>
+<br>
 ### Mobile information system offers benefits to silk farmers
 #### NECTEC AND SERICULTURE AGENCY DEVELOP TAMIS APPLICATION TO ENHANCE PRODUCTIVITY, QUALITY OF LIFE FOR 110,000 FARMING HOUSEHOLDS
 <br>
@@ -28,5 +30,5 @@
 
 <p>&emsp;&emsp;Phensri Kunsuwan, leader of the Srisumlan sericulture community in Chaiyaphum province, said the community currently had 16 members, whom the TAMIS system would benefit by enabling them to access information from government agencies via the online network. Moreover, it will help farmers enter new markets, which will increase the level of business done by the community and the private sector, and enable farmers to improve productivity and incomes – as well as the quality of Thai silk, since the system allows producers to check quality in real time, she said.</p>
 
-<p> Reference : JIRAPAN BOONNON. 2557. The Nation. ฉบับวันที่ 11 ธันวาคม พ.ศ. 2557, หน้า 1B,4B </p>
+
 <br>

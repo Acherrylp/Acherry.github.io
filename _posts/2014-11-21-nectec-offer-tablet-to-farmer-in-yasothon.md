@@ -7,7 +7,11 @@
   layout: default
 ---
 
-# เนคเทคมอบแท็บเล็ตลงทะเบียนเกษตรกรแก่ชาวนายโสธร  
+# เนคเทคมอบแท็บเล็ตลงทะเบียนเกษตรกรแก่ชาวนายโสธร
+
+แหล่งที่มา : ASTVผู้จัดการออนไลน์
+
+
 <br>
 <div style="text-align:center" markdown="1">
 ![alt ImageTamis](/pics/news/2014-11-21-1.JPEG)
@@ -46,7 +50,4 @@
 
 ดร. วีระพงศ์ แพสุวรรณ ปลัดกระทรวงวิทยาศาสตร์และเทคโนโลยี (คนที่ 4 จากซ้าย) เป็นประธานในพิธีมองแท็บเล็ต แก่กลุ่มเกษตรกรนาอินทรีย์ จ.ยโสธร
 </div>
-<br>
-แหล่งที่มา : โดย ASTVผู้จัดการออนไลน์	<a href="http://www.manager.co.th/Science/ViewNews.aspx?NewsID=9570000129404"target="blank">
-http://www.manager.co.th/Science/ViewNews.aspx?NewsID=9570000129404</a>
 <br>

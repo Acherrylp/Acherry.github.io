@@ -10,6 +10,8 @@
 
 # พัฒนากลุ่มวิสาหกิจข้าวอินทรีย์ที่ จ.ยโสธร ด้วยวิทยาศาสตร์และเทคโนโลยี (ตอนจบ)
 <br>
+แหล่งที่มา : ข้าวและชาวนา AEC Rice and AEC Farmer
+<br>
 
 <div style="text-align:center" markdown="1">
 ![alt ImageTamis](/pics/news/2014-11-10.png)
