@@ -10,8 +10,7 @@
 # เปิดโลกเทคโนโลยีให้ชาวหม่อนไหม  
  <br>
  แหล่งที่มา :
- <a href="http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353" target="blank">
- http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353</a>
+ <a href="http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353" target="blank"></a>
  <br>
 
 <div style="text-align:center" markdown="1">
