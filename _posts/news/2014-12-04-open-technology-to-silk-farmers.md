@@ -12,7 +12,7 @@
  แหล่งที่มา :
  <a href="http://www.manager.co.th/Science/viewnews.aspx?NewsID=9570000139353" target="blank"></a>
  <br>
-
+   
 <div style="text-align:center" markdown="1">
 ![alt ImageTamis](/pics/news/2014-12-04-10.jpg) <br>
 <p>เกษตรกรปลูกหม่อนเลี้ยงไหมที่เข้าร่วมในระบบเทคโนโลยีสารสนเทศเพื่อการจัดการกระบวนการผลิตและการตลาดไหมไทยของกรมหม่อนไหมและเนคเทค</p>
