@@ -1344,6 +1344,10 @@
 .fadeInLeft {
   -webkit-animation-name: fadeInLeft;
   animation-name: fadeInLeft;
+  -webkit-animation: mymove 8s infinite; /* Safari 4.0 - 8.0 */
+  -webkit-animation-delay: 8s; /* Safari 4.0 - 8.0 */
+  animation: mymove 8s infinite;
+  animation-delay: 8s;
 }
 
 @-webkit-keyframes fadeInLeftBig {
